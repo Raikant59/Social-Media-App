@@ -1,9 +1,9 @@
-# Instagram Clone
+# Social Media App
 
-A completely Responsive Instagram App- Works on Android, iOS & Web!
+A completely Responsive App- Works on Android, iOS & Web!
 
 ## Features
-- Responsive Instagram UI
+- Responsive UI
 - Email & Password Authentication
 - Share Posts with Caption
 - Display Posts with Caption
@@ -16,7 +16,7 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 
 
 ## Installation
-After cloning this repository, migrate to ```instagram-flutter-clone``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```Social-Media-App``` folder. Then, follow the following steps:
 - Create Firebase Project
 - Enable Authentication
 - Make Firestore Rules
